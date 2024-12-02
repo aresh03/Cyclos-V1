@@ -1,0 +1,19 @@
+[INFO ] 2024-11-22 16:58:21.071 [main] Cyclos-V1 - Logging into Website:
+[INFO ] 2024-11-22 16:58:21.092 [main] Cyclos-V1 - ----------------------
+[INFO ] 2024-11-22 16:58:22.414 [main] Cyclos-V1 - Clicked Login Link
+[INFO ] 2024-11-22 16:58:22.825 [main] Cyclos-V1 - Entered User Name
+[INFO ] 2024-11-22 16:58:23.255 [main] Cyclos-V1 - Entered Password
+[INFO ] 2024-11-22 16:58:23.614 [main] Cyclos-V1 - Clicked Submit Button
+[INFO ] 2024-11-22 16:58:24.987 [main] Cyclos-V1 - -------------------------
+[INFO ] 2024-11-22 16:58:27.062 [main] Cyclos-V1 - Clicked Payment Link
+[INFO ] 2024-11-22 16:58:47.219 [main] Cyclos-V1 - Selected Contact Name
+[INFO ] 2024-11-22 16:58:48.616 [main] Cyclos-V1 - Entered Amount
+[INFO ] 2024-11-22 16:58:49.813 [main] Cyclos-V1 - Entered Description
+[INFO ] 2024-11-22 16:58:50.961 [main] Cyclos-V1 - Clicked Next Button
+[INFO ] 2024-11-22 16:59:21.233 [main] Cyclos-V1 - Clicked Confirm Button
+[INFO ] 2024-11-22 16:59:51.473 [main] Cyclos-V1 - Closed Message Box
+[INFO ] 2024-11-22 16:59:55.113 [main] Cyclos-V1 - ---------------------------------
+[INFO ] 2024-11-22 16:59:55.113 [main] Cyclos-V1 - Selecting Scheduled Payment Option
+[INFO ] 2024-11-22 17:00:23.316 [main] Cyclos-V1 - Scheduled Payment Option Selected
+[INFO ] 2024-11-22 17:00:54.702 [main] Cyclos-V1 - --------------------
+[INFO ] 2024-11-22 17:00:54.704 [main] Cyclos-V1 - Selecting Monthly Installments Option
